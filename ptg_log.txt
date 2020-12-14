@@ -1,0 +1,499 @@
+
+ --- TIMER HAS STARTED
+
+===========================
+ --- COMMENCING STEP 1
+===========================
+ - Unprocessed Data Dict: 119
+
+ ~~~ Step 1 Completed! ~~~
+
+===========================
+ --- COMMENCING STEP 2
+===========================
+ - Main Loop Commencing 
+1 Hierarchy so far = (119)
+1 Monster Values DB = (119)
+1 Highest Similarity = 100.0 - ['Agnaktor', 'Agnaktor G.']
+
+2 Hierarchy so far = (118)
+2 Monster Values DB = (118)
+2 Highest Similarity = 100.0 - ['Barroth', 'Barroth J.']
+
+3 Hierarchy so far = (117)
+3 Monster Values DB = (117)
+3 Highest Similarity = 100.0 - ['Crake B.', 'Crake D.']
+
+4 Hierarchy so far = (116)
+4 Monster Values DB = (116)
+4 Highest Similarity = 100.0 - ['Dalamadur', 'Dalamadur S.']
+
+5 Hierarchy so far = (115)
+5 Monster Values DB = (115)
+5 Highest Similarity = 100.0 - ['Duramborors R.', 'Duramboros']
+
+6 Hierarchy so far = (114)
+6 Monster Values DB = (114)
+6 Highest Similarity = 100.0 - ['Gecko Af.', 'Gecko Ww.']
+
+7 Hierarchy so far = (113)
+7 Monster Values DB = (113)
+7 Highest Similarity = 100.0 - ['Gecko M.', 'Gecko Rw.']
+
+8 Hierarchy so far = (112)
+8 Monster Values DB = (112)
+8 Highest Similarity = 100.0 - ['Gia', 'Veloci']
+
+9 Hierarchy so far = (111)
+9 Monster Values DB = (111)
+9 Highest Similarity = 100.0 - ['Gravios', 'Gravios B.']
+
+10 Hierarchy so far = (110)
+10 Monster Values DB = (110)
+10 Highest Similarity = 100.0 - ['Kechawacha', 'Kechawacha A.']
+
+11 Hierarchy so far = (109)
+11 Monster Values DB = (109)
+11 Highest Similarity = 100.0 - ['Kirin', 'Kirin O.']
+
+12 Hierarchy so far = (108)
+12 Monster Values DB = (108)
+12 Highest Similarity = 100.0 - ['Lao Shen', 'Lao Shen A.']
+
+13 Hierarchy so far = (107)
+13 Monster Values DB = (107)
+13 Highest Similarity = 100.0 - ['Ludroth', 'Ludroth P.']
+
+14 Hierarchy so far = (106)
+14 Monster Values DB = (106)
+14 Highest Similarity = 100.0 - ['Mernos', 'Noios']
+
+15 Hierarchy so far = (105)
+15 Monster Values DB = (105)
+15 Highest Similarity = 100.0 - ['Mohran D.', 'Mohran J.']
+
+16 Hierarchy so far = (104)
+16 Monster Values DB = (104)
+16 Highest Similarity = 100.0 - ['Monoblos', 'Monoblos W.']
+
+17 Hierarchy so far = (103)
+17 Monster Values DB = (103)
+17 Highest Similarity = 100.0 - ['Nargacuga', 'Nargacuga G.']
+
+18 Hierarchy so far = (102)
+18 Monster Values DB = (102)
+18 Highest Similarity = 100.0 - ['Pteryx', 'Pteryx W.']
+
+19 Hierarchy so far = (101)
+19 Monster Values DB = (101)
+19 Highest Similarity = 100.0 - ['Qurupeco', 'Qurupeco C.']
+
+20 Hierarchy so far = (100)
+20 Monster Values DB = (100)
+20 Highest Similarity = 100.0 - ['Radobaan', 'Uragaan']
+
+21 Hierarchy so far = (99)
+21 Monster Values DB = (99)
+21 Highest Similarity = 100.0 - ['Tigrex', 'Tigrex B.']
+
+22 Hierarchy so far = (98)
+22 Monster Values DB = (98)
+22 Highest Similarity = 100.0 - ['Toad P.', 'Toad S.']
+
+23 Hierarchy so far = (97)
+23 Monster Values DB = (97)
+23 Highest Similarity = 100.0 - ['Yian Kutku', 'Yian Kutku B.']
+
+24 Hierarchy so far = (96)
+24 Monster Values DB = (96)
+24 Highest Similarity = 100.0 - ['Zamtrios', 'Zamtrios T.']
+
+25 Hierarchy so far = (95)
+25 Monster Values DB = (95)
+25 Highest Similarity = 100.0 - ['Zinogre', 'Zinogre S.']
+
+26 Hierarchy so far = (94)
+26 Monster Values DB = (94)
+26 Highest Similarity = 99.74999999999999 - ['Najarala', 'Najarala T.']
+
+27 Hierarchy so far = (93)
+27 Monster Values DB = (93)
+27 Highest Similarity = 99.58333333333333 - ['Tigrex M.', ['Tigrex', 'Tigrex B.']]
+
+28 Hierarchy so far = (92)
+28 Monster Values DB = (92)
+28 Highest Similarity = 99.41666666666666 - ['Lagiacrus', 'Lagiacrus A.']
+
+29 Hierarchy so far = (91)
+29 Monster Values DB = (91)
+29 Highest Similarity = 99.375 - [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]
+
+30 Hierarchy so far = (90)
+30 Monster Values DB = (90)
+30 Highest Similarity = 99.37291666666667 - ['Yian Garuga', ['Yian Kutku', 'Yian Kutku B.']]
+
+31 Hierarchy so far = (89)
+31 Monster Values DB = (89)
+31 Highest Similarity = 99.36708860759494 - ['Toad N.', ['Toad P.', 'Toad S.']]
+
+32 Hierarchy so far = (88)
+32 Monster Values DB = (88)
+32 Highest Similarity = 99.35897435897435 - ['Gen', ['Gia', 'Veloci']]
+
+33 Hierarchy so far = (87)
+33 Monster Values DB = (87)
+33 Highest Similarity = 99.1111111111111 - ['Glavenus', 'Io']
+
+34 Hierarchy so far = (86)
+34 Monster Values DB = (86)
+34 Highest Similarity = 99.05982905982906 - ['bull', 'Mosswine']
+
+35 Hierarchy so far = (85)
+35 Monster Values DB = (85)
+35 Highest Similarity = 98.95299145299145 - [['Kirin', 'Kirin O.'], ['bull', 'Mosswine']]
+
+36 Hierarchy so far = (84)
+36 Monster Values DB = (84)
+36 Highest Similarity = 98.75 - ['Kelbi', 'Moofah']
+
+37 Hierarchy so far = (83)
+37 Monster Values DB = (83)
+37 Highest Similarity = 98.70833333333333 - ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]
+
+38 Hierarchy so far = (82)
+38 Monster Values DB = (82)
+38 Highest Similarity = 98.625 - ['Baggi', 'Jaggi']
+
+39 Hierarchy so far = (81)
+39 Monster Values DB = (81)
+39 Highest Similarity = 98.490990990991 - ['Deviljoh', ['Glavenus', 'Io']]
+
+40 Hierarchy so far = (80)
+40 Monster Values DB = (80)
+40 Highest Similarity = 98.31196581196582 - [['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]]
+
+41 Hierarchy so far = (79)
+41 Monster Values DB = (79)
+41 Highest Similarity = 98.27004219409281 - ['Blissbill', 'Malifesto']
+
+42 Hierarchy so far = (78)
+42 Monster Values DB = (78)
+42 Highest Similarity = 97.82222222222221 - ['Aptonoth', 'Larinoth']
+
+43 Hierarchy so far = (77)
+43 Monster Values DB = (77)
+43 Highest Similarity = 97.75316455696202 - [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]
+
+44 Hierarchy so far = (76)
+44 Monster Values DB = (76)
+44 Highest Similarity = 97.60683760683759 - ['Anjanath', 'Maccao']
+
+45 Hierarchy so far = (75)
+45 Monster Values DB = (75)
+45 Highest Similarity = 97.41773504273506 - ['Anteka', [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]]
+
+46 Hierarchy so far = (74)
+46 Monster Values DB = (74)
+46 Highest Similarity = 97.41666666666664 - ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]
+
+47 Hierarchy so far = (73)
+47 Monster Values DB = (73)
+47 Highest Similarity = 97.39864864864863 - ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]
+
+48 Hierarchy so far = (72)
+48 Monster Values DB = (72)
+48 Highest Similarity = 96.91550925925925 - ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]
+
+49 Hierarchy so far = (71)
+49 Monster Values DB = (71)
+49 Highest Similarity = 96.55982905982907 - ['Revolture', ['Blissbill', 'Malifesto']]
+
+50 Hierarchy so far = (70)
+50 Monster Values DB = (70)
+50 Highest Similarity = 96.39756944444444 - ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]
+
+51 Hierarchy so far = (69)
+51 Monster Values DB = (69)
+51 Highest Similarity = 96.20833333333333 - ['Diablos', ['Monoblos', 'Monoblos W.']]
+
+52 Hierarchy so far = (68)
+52 Monster Values DB = (68)
+52 Highest Similarity = 96.04166666666666 - ['Tzitzi Ya Ku', ['Baggi', 'Jaggi']]
+
+53 Hierarchy so far = (67)
+53 Monster Values DB = (67)
+53 Highest Similarity = 95.94017094017093 - ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]
+
+54 Hierarchy so far = (66)
+54 Monster Values DB = (66)
+54 Highest Similarity = 95.89743589743588 - [['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']]
+
+55 Hierarchy so far = (65)
+55 Monster Values DB = (65)
+55 Highest Similarity = 95.73069852941177 - [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]
+
+56 Hierarchy so far = (64)
+56 Monster Values DB = (64)
+56 Highest Similarity = 95.68493150684931 - ['Girros', 'Kulve Taroth']
+
+57 Hierarchy so far = (63)
+57 Monster Values DB = (63)
+57 Highest Similarity = 95.64102564102564 - ['gammoth', 'popo']
+
+58 Hierarchy so far = (62)
+58 Monster Values DB = (62)
+58 Highest Similarity = 95.56962025316456 - ['Barnos', 'Raphinos']
+
+59 Hierarchy so far = (61)
+59 Monster Values DB = (61)
+59 Highest Similarity = 95.3030303030303 - ['Congalala', ['Kechawacha', 'Kechawacha A.']]
+
+60 Hierarchy so far = (60)
+60 Monster Values DB = (60)
+60 Highest Similarity = 95.24774774774775 - ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]
+
+61 Hierarchy so far = (59)
+61 Monster Values DB = (59)
+61 Highest Similarity = 96.24413145539906 - [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]
+
+62 Hierarchy so far = (58)
+62 Monster Values DB = (58)
+62 Highest Similarity = 95.962441314554 - ['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]]
+
+63 Hierarchy so far = (57)
+63 Monster Values DB = (57)
+63 Highest Similarity = 95.0 - ['Legiana', 'Rath']
+
+64 Hierarchy so far = (56)
+64 Monster Values DB = (56)
+64 Highest Similarity = 94.8051948051948 - ['Gastodon', 'Kestodon']
+
+65 Hierarchy so far = (55)
+65 Monster Values DB = (55)
+65 Highest Similarity = 94.68888888888888 - ['gargwa', ['Crake B.', 'Crake D.']]
+
+66 Hierarchy so far = (54)
+66 Monster Values DB = (54)
+66 Highest Similarity = 94.47488584474884 - ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]
+
+67 Hierarchy so far = (53)
+67 Monster Values DB = (53)
+67 Highest Similarity = 94.7593896713615 - [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]
+
+68 Hierarchy so far = (52)
+68 Monster Values DB = (52)
+68 Highest Similarity = 94.3640350877193 - ['Blagonga', 'rajang']
+
+69 Hierarchy so far = (51)
+69 Monster Values DB = (51)
+69 Highest Similarity = 94.33333333333333 - [['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]]
+
+70 Hierarchy so far = (50)
+70 Monster Values DB = (50)
+70 Highest Similarity = 94.11255411255414 - [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]
+
+71 Hierarchy so far = (49)
+71 Monster Values DB = (49)
+71 Highest Similarity = 94.03153153153153 - ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]
+
+72 Hierarchy so far = (48)
+72 Monster Values DB = (48)
+72 Highest Similarity = 93.88528138528139 - [['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]]
+
+73 Hierarchy so far = (47)
+73 Monster Values DB = (47)
+73 Highest Similarity = 93.8579963235294 - [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]
+
+74 Hierarchy so far = (46)
+74 Monster Values DB = (46)
+74 Highest Similarity = 94.63733149509804 - [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]
+
+75 Hierarchy so far = (45)
+75 Monster Values DB = (45)
+75 Highest Similarity = 93.84803921568627 - ['Ceadeus', ['Ludroth', 'Ludroth P.']]
+
+76 Hierarchy so far = (44)
+76 Monster Values DB = (44)
+76 Highest Similarity = 93.6642156862745 - ['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]]
+
+77 Hierarchy so far = (43)
+77 Monster Values DB = (43)
+77 Highest Similarity = 93.52564102564105 - ['Shamos', 'Tobi Kadachi']
+
+78 Hierarchy so far = (42)
+78 Monster Values DB = (42)
+78 Highest Similarity = 93.36956521739133 - ['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]]
+
+79 Hierarchy so far = (41)
+79 Monster Values DB = (41)
+79 Highest Similarity = 93.26839826839829 - ['Apceros', ['Aptonoth', 'Larinoth']]
+
+80 Hierarchy so far = (40)
+80 Monster Values DB = (40)
+80 Highest Similarity = 92.78023097826086 - [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]
+
+81 Hierarchy so far = (39)
+81 Monster Values DB = (39)
+81 Highest Similarity = 92.6767529539801 - [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]
+
+82 Hierarchy so far = (38)
+82 Monster Values DB = (38)
+82 Highest Similarity = 92.57383966244724 - [['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']]
+
+83 Hierarchy so far = (37)
+83 Monster Values DB = (37)
+83 Highest Similarity = 92.46666666666665 - ['Kulu Ya Ku', ['Mernos', 'Noios']]
+
+84 Hierarchy so far = (36)
+84 Monster Values DB = (36)
+84 Highest Similarity = 92.38907999067163 - ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]
+
+85 Hierarchy so far = (35)
+85 Monster Values DB = (35)
+85 Highest Similarity = 92.82973193617724 - [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]
+
+86 Hierarchy so far = (34)
+86 Monster Values DB = (34)
+86 Highest Similarity = 93.51789112580127 - [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]
+
+87 Hierarchy so far = (33)
+87 Monster Values DB = (33)
+87 Highest Similarity = 93.41052585177951 - [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]
+
+88 Hierarchy so far = (32)
+88 Monster Values DB = (32)
+88 Highest Similarity = 92.63243039449056 - [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]
+
+89 Hierarchy so far = (31)
+89 Monster Values DB = (31)
+89 Highest Similarity = 94.81582823253812 - [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]
+
+90 Hierarchy so far = (30)
+90 Monster Values DB = (30)
+90 Highest Similarity = 93.05657704671225 - [[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]]
+
+91 Hierarchy so far = (29)
+91 Monster Values DB = (29)
+91 Highest Similarity = 92.06666666666666 - [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]
+
+92 Hierarchy so far = (28)
+92 Monster Values DB = (28)
+92 Highest Similarity = 92.03333333333335 - ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]
+
+93 Hierarchy so far = (27)
+93 Monster Values DB = (27)
+93 Highest Similarity = 91.80379746835442 - ['Nibelsnarf', ['Najarala', 'Najarala T.']]
+
+94 Hierarchy so far = (26)
+94 Monster Values DB = (26)
+94 Highest Similarity = 91.56666666666666 - [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]
+
+95 Hierarchy so far = (25)
+95 Monster Values DB = (25)
+95 Highest Similarity = 91.46929824561403 - ['Fatalis', 'Misutzune']
+
+96 Hierarchy so far = (24)
+96 Monster Values DB = (24)
+96 Highest Similarity = 91.35581140350878 - [['Anteka', [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]], ['gammoth', 'popo']]
+
+97 Hierarchy so far = (23)
+97 Monster Values DB = (23)
+97 Highest Similarity = 91.35563380281693 - [['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]]
+
+98 Hierarchy so far = (22)
+98 Monster Values DB = (22)
+98 Highest Similarity = 91.12844935003315 - [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]
+
+99 Hierarchy so far = (21)
+99 Monster Values DB = (21)
+99 Highest Similarity = 94.38597008034033 - [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]
+
+100 Hierarchy so far = (20)
+100 Monster Values DB = (20)
+100 Highest Similarity = 90.49025254371838 - ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]
+
+101 Hierarchy so far = (19)
+101 Monster Values DB = (19)
+101 Highest Similarity = 93.98794989152388 - [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]
+
+102 Hierarchy so far = (18)
+102 Monster Values DB = (18)
+102 Highest Similarity = 90.8567558924357 - [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]
+
+103 Hierarchy so far = (17)
+103 Monster Values DB = (17)
+103 Highest Similarity = 90.28888888888889 - ['paolumu', 'Pukei Pukei']
+
+104 Hierarchy so far = (16)
+104 Monster Values DB = (16)
+104 Highest Similarity = 90.20833333333334 - [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]
+
+105 Hierarchy so far = (15)
+105 Monster Values DB = (15)
+105 Highest Similarity = 91.20719178082193 - [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]
+
+106 Hierarchy so far = (14)
+106 Monster Values DB = (14)
+106 Highest Similarity = 89.16364734299518 - ['Bazelgeuse', [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]]
+
+107 Hierarchy so far = (13)
+107 Monster Values DB = (13)
+107 Highest Similarity = 88.21137081901983 - [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]
+
+108 Hierarchy so far = (12)
+108 Monster Values DB = (12)
+108 Highest Similarity = 90.05052998279913 - [['Diablos', ['Monoblos', 'Monoblos W.']], [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]]
+
+109 Hierarchy so far = (11)
+109 Monster Values DB = (11)
+109 Highest Similarity = 90.34785387542962 - [['Bazelgeuse', [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]], [['Diablos', ['Monoblos', 'Monoblos W.']], [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]]]
+
+110 Hierarchy so far = (10)
+110 Monster Values DB = (10)
+110 Highest Similarity = 89.6062605392258 - [['paolumu', 'Pukei Pukei'], [['Bazelgeuse', [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]], [['Diablos', ['Monoblos', 'Monoblos W.']], [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]]]]
+
+111 Hierarchy so far = (9)
+111 Monster Values DB = (9)
+111 Highest Similarity = 90.27509842999281 - [['Legiana', 'Rath'], [['paolumu', 'Pukei Pukei'], [['Bazelgeuse', [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]], [['Diablos', ['Monoblos', 'Monoblos W.']], [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]]]]]
+
+112 Hierarchy so far = (8)
+112 Monster Values DB = (8)
+112 Highest Similarity = 87.14296003478842 - [['Yian Garuga', ['Yian Kutku', 'Yian Kutku B.']], [['Legiana', 'Rath'], [['paolumu', 'Pukei Pukei'], [['Bazelgeuse', [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]], [['Diablos', ['Monoblos', 'Monoblos W.']], [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]]]]]]
+
+113 Hierarchy so far = (7)
+113 Monster Values DB = (7)
+113 Highest Similarity = 86.2575 - ['Rhenoplos', [['Anteka', [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]], ['gammoth', 'popo']]]
+
+114 Hierarchy so far = (6)
+114 Monster Values DB = (6)
+114 Highest Similarity = 85.19102328431372 - [['Gastodon', 'Kestodon'], ['Rhenoplos', [['Anteka', [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]], ['gammoth', 'popo']]]]
+
+115 Hierarchy so far = (5)
+115 Monster Values DB = (5)
+115 Highest Similarity = 87.5905505952381 - [['Duramborors R.', 'Duramboros'], [['Gastodon', 'Kestodon'], ['Rhenoplos', [['Anteka', [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]], ['gammoth', 'popo']]]]]
+
+116 Hierarchy so far = (4)
+116 Monster Values DB = (4)
+116 Highest Similarity = 83.6609705010038 - [[['Yian Garuga', ['Yian Kutku', 'Yian Kutku B.']], [['Legiana', 'Rath'], [['paolumu', 'Pukei Pukei'], [['Bazelgeuse', [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]], [['Diablos', ['Monoblos', 'Monoblos W.']], [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]]]]]], [['Duramborors R.', 'Duramboros'], [['Gastodon', 'Kestodon'], ['Rhenoplos', [['Anteka', [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]], ['gammoth', 'popo']]]]]]
+
+117 Hierarchy so far = (3)
+117 Monster Values DB = (3)
+117 Highest Similarity = 83.26686499938369 - [['Nargacuga', 'Nargacuga G.'], [[['Yian Garuga', ['Yian Kutku', 'Yian Kutku B.']], [['Legiana', 'Rath'], [['paolumu', 'Pukei Pukei'], [['Bazelgeuse', [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]], [['Diablos', ['Monoblos', 'Monoblos W.']], [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]]]]]], [['Duramborors R.', 'Duramboros'], [['Gastodon', 'Kestodon'], ['Rhenoplos', [['Anteka', [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]], ['gammoth', 'popo']]]]]]]
+
+ - Final Hierarchy = ['Seregios', [['Nargacuga', 'Nargacuga G.'], [[['Yian Garuga', ['Yian Kutku', 'Yian Kutku B.']], [['Legiana', 'Rath'], [['paolumu', 'Pukei Pukei'], [['Bazelgeuse', [['Barnos', 'Raphinos'], [[['Pteryx', 'Pteryx W.'], ['Revolture', ['Blissbill', 'Malifesto']]], [['Kulu Ya Ku', ['Mernos', 'Noios']], [['gargwa', ['Crake B.', 'Crake D.']], ['Hypnocatrice', ['Qurupeco', 'Qurupeco C.']]]]]]], [['Diablos', ['Monoblos', 'Monoblos W.']], [['Gravios', 'Gravios B.'], [[['Toad N.', ['Toad P.', 'Toad S.']], ['Tetsucabra', ['Zamtrios', 'Zamtrios T.']]], [[['Zinogre', 'Zinogre S.'], ['Odogaron', [['Congalala', ['Kechawacha', 'Kechawacha A.']], ['Blagonga', 'rajang']]]], ['Barioth', [['Nibelsnarf', ['Najarala', 'Najarala T.']], [[[['Dalamadur', 'Dalamadur S.'], ['Mohran D.', 'Mohran J.']], [[['Agnaktor', 'Agnaktor G.'], ['Lagiacrus I.', ['Lagiacrus', 'Lagiacrus A.']]], [['Epioth', ['Ceadeus', ['Ludroth', 'Ludroth P.']]], [['Nergigante', [['Dodogama', [['Girros', 'Kulve Taroth'], ['Jagras', ['Akantor', ['Tigrex M.', ['Tigrex', 'Tigrex B.']]]]]], ['Zorah Magdaros', [['Gecko Af.', 'Gecko Ww.'], ['Gecko M.', 'Gecko Rw.']]]]], [['Lao Shen', 'Lao Shen A.'], [['Apceros', ['Aptonoth', 'Larinoth']], ['Ukanlos', [['Shamos', 'Tobi Kadachi'], [[['Barroth', 'Barroth J.'], ['Radobaan', 'Uragaan']], [['Anjanath', 'Maccao'], [['Tzitzi Ya Ku', ['Baggi', 'Jaggi']], [['Gen', ['Gia', 'Veloci']], ['Rembora', ['Wroggi', ['Brachi', ['Deviljoh', ['Glavenus', 'Io']]]]]]]]]]]]]]]]], ['Fatalis', 'Misutzune']]]]]]]]]]]], [['Duramborors R.', 'Duramboros'], [['Gastodon', 'Kestodon'], ['Rhenoplos', [['Anteka', [[['Kirin', 'Kirin O.'], ['bull', 'Mosswine']], ['Kelbi', 'Moofah']]], ['gammoth', 'popo']]]]]]]]
+
+
+ ~~~ Step 2 Completed! ~~~
+
+===========================
+ --- COMMENCING STEP 3
+===========================
+Canvas Size = 2480 x 1450
+
+ Drawing Elements 
+
+ ~~~ Step 3 Completed! ~~~
+
+
+
+ => Script Took: 0:00:07.611613
